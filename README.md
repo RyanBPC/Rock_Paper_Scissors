@@ -16,9 +16,11 @@ This is a simple terminal-based Rock Paper Scissors game I built, while practisi
 
 ## Project Structure
 
+```
 Rock_Paper_Scissors/
 │
 └─ Rock_Paper_Scissors.py            # Main game logic and ASCII aRT
+```
 
 ---
 
